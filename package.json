@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/francoislecasble/GestionCommande/issues"
   },
-  "homepage": "https://github.com/francoislecasble/GestionCommande#readme"
+  "homepage": "https://github.com/francoislecasble/GestionCommande#readme",
+  "dependencies": {
+    "collections": "^5.0.7",
+    "map": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.0"
+  }
 }
