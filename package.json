@@ -1,0 +1,19 @@
+{
+  "name": "gestioncommande",
+  "version": "1.0.0",
+  "description": "pfffff",
+  "main": "commande.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoislecasble/GestionCommande.git"
+  },
+  "author": "flecasble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francoislecasble/GestionCommande/issues"
+  },
+  "homepage": "https://github.com/francoislecasble/GestionCommande#readme"
+}
